@@ -36,7 +36,10 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![Screenshot 2024-12-20 141232](https://github.com/user-attachments/assets/ea8d85ad-6784-42fa-9b61-b45df40920ba)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![Screenshot 2024-12-20 141946](https://github.com/user-attachments/assets/74920607-a73f-42a7-a8ab-92aee557d7d0)
 
 **RESULTS**
+Thus the Serial-In Serial-Out shift register is implemented and verified.
