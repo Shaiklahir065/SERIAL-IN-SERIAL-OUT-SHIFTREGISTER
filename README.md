@@ -10,6 +10,8 @@ Quartus prime
 
 **THEORY**
 
+ A Serial-In Serial-Out shift register is a sequential logic circuit that allows data to be shifted in and out one bit at a time in a serial manner. It consists of a cascade of flip-flops connected in series, forming a chain.
+ 
 **SISO shift Register**
 
 A Serial-In Serial-Out shift register is a sequential logic circuit that allows data to be shifted in and out one bit at a time in a serial manner. It consists of a cascade of flip-flops connected in series, forming a chain. The input data is applied to the first flip-flop in the chain, and as the clock pulses, the data propagates through the flip-flops, ultimately appearing at the output.
@@ -31,9 +33,15 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:
+Developed by:Shaik lahir
+RegisterNumber:24005737
 
 */
+
+**BASIC DATA MOVEMENT THROUGH A SHIFT REGISTER**
+
+![WhatsApp Image 2024-12-21 at 08 38 46_ae0bb5ed](https://github.com/user-attachments/assets/65f443e8-971a-46c9-9a44-8d539232d510)
+
 
 **RTL LOGIC FOR SISO Shift Register**
 ![Screenshot 2024-12-20 141232](https://github.com/user-attachments/assets/ea8d85ad-6784-42fa-9b61-b45df40920ba)
