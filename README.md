@@ -63,8 +63,9 @@ RegisterNumber:24005737
 **RTL LOGIC FOR SISO Shift Register**
 ![Screenshot 2024-12-20 141232](https://github.com/user-attachments/assets/ea8d85ad-6784-42fa-9b61-b45df40920ba)
 
-**TIMING DIGRAM FOR SISO Shift Register**
-![Screenshot 2024-12-20 141946](https://github.com/user-attachments/assets/74920607-a73f-42a7-a8ab-92aee557d7d0)
+**TIMING DIAGRAM FOR SISO Shift Register**
+
+![WhatsApp Image 2024-12-27 at 14 06 17_8ae70526](https://github.com/user-attachments/assets/38dd23ba-b9bc-4144-96db-ca5519288a38)
 
 **RESULT**
 Thus the Serial-In Serial-Out shift register is implemented and verified.
